@@ -1,0 +1,1 @@
+export const AUTHORIZATION_KEY = '@organizator_AUTHORIZATION_KEY'
